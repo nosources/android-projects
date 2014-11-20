@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">naozhong</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="relanuch">relaunch</string>
+    <string name="interval">interval setting</string>
+    <string name="setinterval">OK(need relaunch)</string>
+ 	<string name="hint">input the interval of vibrate</string>
+ 	<string name="vibrate_hint">how long the phone vibrate</string>
+ 	<string name="setvibrate">OK</string>
+	<string name="vibratelabel">vibrate setting</string>
+</resources>
